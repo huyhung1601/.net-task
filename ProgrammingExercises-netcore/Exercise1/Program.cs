@@ -7,11 +7,12 @@ namespace CISS_ProgrammingExercise
     {
         static void Main(string[] args)
         {
-            for(int i=0; i <=10; i ++){
+            for (int i = 0; i <= 10; i++)
+            {
                 var Time = Exercise1(i);
                 Console.WriteLine(Time);
-                Thread.Sleep(1000);                               
-            }            
+                Thread.Sleep(1000);
+            }
         }
 
         // this method will be called periodically.
@@ -21,8 +22,8 @@ namespace CISS_ProgrammingExercise
         // 1 Second, 2 Seconds, 3 Seconds ect.
         public static string Exercise1(int i)
         {
-           string result = Convert.ToString(i) + (i < 2 ? "second" : "seconds");
-           return result ;
+            string result = Convert.ToString(i) + (i < 2 ? " second" : " seconds");
+            return result;
         }
     }
 }

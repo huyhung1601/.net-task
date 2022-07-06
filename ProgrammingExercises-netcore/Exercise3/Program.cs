@@ -17,20 +17,19 @@ namespace CISS_ProgrammingExercise
         // to the console
         static void Exercise3()
         {
-            Derived myDerived = new Derived();
-            MoreDerived myMoreDerived =  new MoreDerived();
-            MoreDerived2 myMoreDerived2 = new MoreDerived2();
-            Finished myFinished = new Finished();
-            IWord myWord = myDerived;
+            var myDerived = new Derived();
+            var myFinished = new Finished();
+            myDerived.Print();
+            var myMoreDerived = new MoreDerived();
+            IWord myWord = myMoreDerived;
+            myWord.Print();
+            myMoreDerived.Print();
+            var myMoreDerived2 = new MoreDerived2();
             IWord2 myWord2 = myMoreDerived2;
-
-            return myDerived + myDerived.Base() + myFinished.Print() 
-                + myDerived.Print() + myMoreDerived.Base() + myWord.Print()
-                + myMoreDerived.Print() + myMoreDerived2 + myMoreDerived2.Base() + myWord2.Print();
-            
+            myWord2.Print();
         }
-                
-    
+
+
         public interface IWord
         {
             void Print();
@@ -76,7 +75,7 @@ namespace CISS_ProgrammingExercise
 
             public new virtual void Print()
             {
-                Console.Write("do ");
+                Console.Write("to ");
             }
 
             protected override string GetString()
