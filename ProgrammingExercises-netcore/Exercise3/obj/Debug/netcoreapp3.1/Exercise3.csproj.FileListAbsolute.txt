@@ -1,0 +1,5 @@
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.AssemblyReference.cache
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache

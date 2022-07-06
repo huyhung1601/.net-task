@@ -40,9 +40,8 @@ namespace CISS_ProgrammingExercise
 
         static IEnumerable<string> Exercise5(IEnumerable<string> names)
         {
-            sortByName = Array.Sort(names, (x,y)=> String.Compare(x, y))
-
-            return null;
+            var result = names.OrderBy(s => s,StringComparer.CurrentCultureIgnoreCase);
+            return result;
         }        
     
     }

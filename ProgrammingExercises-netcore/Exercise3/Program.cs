@@ -17,15 +17,17 @@ namespace CISS_ProgrammingExercise
         // to the console
         static void Exercise3()
         {
-            Derived myDerived = new Derived()
-            MoreDerived myMoreDerived =  new MoreDerived()
-            MoreDerived2 myMoreDerived2 = new MoreDerived2()
-            Finished myFinished = new Finished()
-            IWord myWord = myDerived
-            IWord2 myWord2 = myMoreDerived2
-                result = myDerived + myDerived.Base() + myFinished.Finished() 
+            Derived myDerived = new Derived();
+            MoreDerived myMoreDerived =  new MoreDerived();
+            MoreDerived2 myMoreDerived2 = new MoreDerived2();
+            Finished myFinished = new Finished();
+            IWord myWord = myDerived;
+            IWord2 myWord2 = myMoreDerived2;
+
+            return myDerived + myDerived.Base() + myFinished.Print() 
                 + myDerived.Print() + myMoreDerived.Base() + myWord.Print()
-                + myMoreDerived.Print() + myMoreDerived2 + myMoreDerived2.Base() + myWord2.Print()
+                + myMoreDerived.Print() + myMoreDerived2 + myMoreDerived2.Base() + myWord2.Print();
+            
         }
                 
     
@@ -140,13 +142,10 @@ namespace CISS_ProgrammingExercise
 
         public class Finished : Unfinished
         {
-            static  Finished()
+            new void Print()
             {
-                Console.Write(this.GetString())
+                Console.Write(this.GetString());
             }
         }
-
-
-
     }
 }
