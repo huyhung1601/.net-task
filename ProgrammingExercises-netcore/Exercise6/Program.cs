@@ -85,13 +85,11 @@ namespace CISS_ProgrammingExercise
                 {
                     point2.Y = (int)(point2.Y - yChange);
                 };
-                Console.WriteLine(point2);
                 Line line = new Line();
                 line.P1 = centerPoint;
                 line.P2 = point2;
                 lines.Add(line);
             }
-            Console.WriteLine(lines.ToString());
 
             return lines;
         }

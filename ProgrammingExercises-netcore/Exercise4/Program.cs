@@ -11,15 +11,16 @@ namespace Exercise8
         {
             string Path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
             string[] files = null;
-            new Program().Exercise4(Path, outFiles => {
+            new Program().Exercise4(Path, outFiles =>
+            {
                 files = outFiles;
 
-            foreach(var file in files)
-            {
-                Console.WriteLine(file);
-            }
+                foreach (var file in files)
+                {
+                    Console.WriteLine(file);
+                }
 
-                });
+            });
             Console.ReadLine();
         }
 
@@ -31,7 +32,10 @@ namespace Exercise8
         // the code must call the "done" handler with an array of file names when complete.
         public void Exercise4(string startPath, CompleteHandler done)
         {
-            
+            var files = Directory.GetFiles(startPath, "*.*", SearchOption.AllDirectories)
+           .Where(s => s.EndsWith(".txt") || s.EndsWith(".doc"));
+            string[] fileNames = (string[])files.Select(f => Path.GetFileName(f));
+            done(fileNames);
         }
     }
 }
