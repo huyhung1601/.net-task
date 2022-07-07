@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "26tFW48izafjKHQwYaH+sAOcAmgXbsLXK4ZOpBcPSaCEv7J9/ck6ioUPL/kC0HFcuOmWVUFg6SpPxa1cEbJzHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huyhu\\OneDrive\\Desktop\\ProgrammingExercises-netcore\\ProgrammingExercises-netcore\\Exercise6\\Exercise6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
