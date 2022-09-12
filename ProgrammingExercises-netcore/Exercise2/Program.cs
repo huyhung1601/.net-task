@@ -33,9 +33,7 @@ namespace CISS_ProgrammingExercise
         // and false if the file contents do not match.
         public static bool Exercise2(string filePath1, string filePath2)
         {
-            var filename1 = System.IO.Path.GetFileName(filePath1);
-            var filename2 = System.IO.Path.GetFileName(filePath2);
-
+            //Get List boolean of pixel (brightness > 0.5)
             var bitmap1 = GetHash(Image.FromFile(filePath1, true));
             var bitmap2 = GetHash(Image.FromFile(filePath2, true));
 
