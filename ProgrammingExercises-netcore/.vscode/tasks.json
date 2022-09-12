@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Exercise6/Exercise6.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+        
+        // ,
+        
+        // {
+        //     "label": "build",
+        //     "command": "dotnet",
+        //     "type": "process",
+        //     "args": [
+        //         "build",
+        //         "${workspaceFolder}/Exercise2/Exercise2.csproj"
+        //     ],
+        //     "problemMatcher": "$msCompile"
+        // },
+        
+        // {
+        //     "label": "build",
+        //     "command": "dotnet",
+        //     "type": "process",
+        //     "args": [
+        //         "build",
+        //         "${workspaceFolder}/Exercise4/Exercise4.csproj"
+        //     ],
+        //     "problemMatcher": "$msCompile"
+        // }
+    ]
+}

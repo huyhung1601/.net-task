@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZYpJwTGjfo66imyz6LxyDbuxoeaE1CFaVYLu45GUn1SOmuxOHri4EKujKY9mTxO0A94HQZALyu0a9vQq+PChw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huyhu\\OneDrive\\Desktop\\net-task-master\\.net-task-master\\ProgrammingExercises-netcore\\Exercise6\\Exercise6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

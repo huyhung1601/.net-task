@@ -1,0 +1,14 @@
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.AssemblyReference.cache
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\huyhu\OneDrive\Desktop\ProgrammingExercises-netcore\ProgrammingExercises-netcore\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache

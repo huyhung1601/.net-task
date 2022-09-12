@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT9zKzJOhuB0xDWgMIrfVCIeqB2eY6ktvHn2YtJJj6mOIfrj+qPAkcYvxvZLVcfu6wY5FPo7NvEKMfFykoQyqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huyhu\\OneDrive\\Desktop\\net-task-master\\.net-task-master\\ProgrammingExercises-netcore\\Exercise2\\Exercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\huyhu\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
